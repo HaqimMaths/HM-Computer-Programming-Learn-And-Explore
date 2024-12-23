@@ -1,0 +1,7 @@
+def copy_string(text, n):
+  result = ''
+  for i in range(n):
+    result += text
+  return result
+
+print(copy_string('harish', 10))

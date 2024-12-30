@@ -1,0 +1,14 @@
+C:\Users\Harish Haqim\OneDrive\Documents\Studies\Self Learning\Microsoft Learning\C Sharp for Beginners\BasicArithmeticCalculator\obj\Debug\net9.0\BasicArithmeticCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Harish Haqim\OneDrive\Documents\Studies\Self Learning\Microsoft Learning\C Sharp for Beginners\BasicArithmeticCalculator\obj\Debug\net9.0\BasicArithmeticCalculator.AssemblyInfoInputs.cache
+C:\Users\Harish Haqim\OneDrive\Documents\Studies\Self Learning\Microsoft Learning\C Sharp for Beginners\BasicArithmeticCalculator\obj\Debug\net9.0\BasicArithmeticCalculator.AssemblyInfo.cs
+C:\Users\Harish Haqim\OneDrive\Documents\Studies\Self Learning\Microsoft Learning\C Sharp for Beginners\BasicArithmeticCalculator\obj\Debug\net9.0\BasicArithmeticCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Harish Haqim\OneDrive\Documents\Studies\Self Learning\Microsoft Learning\C Sharp for Beginners\BasicArithmeticCalculator\bin\Debug\net9.0\BasicArithmeticCalculator.exe
+C:\Users\Harish Haqim\OneDrive\Documents\Studies\Self Learning\Microsoft Learning\C Sharp for Beginners\BasicArithmeticCalculator\bin\Debug\net9.0\BasicArithmeticCalculator.deps.json
+C:\Users\Harish Haqim\OneDrive\Documents\Studies\Self Learning\Microsoft Learning\C Sharp for Beginners\BasicArithmeticCalculator\bin\Debug\net9.0\BasicArithmeticCalculator.runtimeconfig.json
+C:\Users\Harish Haqim\OneDrive\Documents\Studies\Self Learning\Microsoft Learning\C Sharp for Beginners\BasicArithmeticCalculator\bin\Debug\net9.0\BasicArithmeticCalculator.dll
+C:\Users\Harish Haqim\OneDrive\Documents\Studies\Self Learning\Microsoft Learning\C Sharp for Beginners\BasicArithmeticCalculator\bin\Debug\net9.0\BasicArithmeticCalculator.pdb
+C:\Users\Harish Haqim\OneDrive\Documents\Studies\Self Learning\Microsoft Learning\C Sharp for Beginners\BasicArithmeticCalculator\obj\Debug\net9.0\BasicArithmeticCalculator.dll
+C:\Users\Harish Haqim\OneDrive\Documents\Studies\Self Learning\Microsoft Learning\C Sharp for Beginners\BasicArithmeticCalculator\obj\Debug\net9.0\refint\BasicArithmeticCalculator.dll
+C:\Users\Harish Haqim\OneDrive\Documents\Studies\Self Learning\Microsoft Learning\C Sharp for Beginners\BasicArithmeticCalculator\obj\Debug\net9.0\BasicArithmeticCalculator.pdb
+C:\Users\Harish Haqim\OneDrive\Documents\Studies\Self Learning\Microsoft Learning\C Sharp for Beginners\BasicArithmeticCalculator\obj\Debug\net9.0\BasicArithmeticCalculator.genruntimeconfig.cache
+C:\Users\Harish Haqim\OneDrive\Documents\Studies\Self Learning\Microsoft Learning\C Sharp for Beginners\BasicArithmeticCalculator\obj\Debug\net9.0\ref\BasicArithmeticCalculator.dll

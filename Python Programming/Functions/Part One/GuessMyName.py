@@ -2,7 +2,7 @@
   Section: Functions
   Topic: Guess My Name!
   Author: Haqim Maths (https://github.com/HaqimMaths)
-  Date: 01/01/2025
+  Date: 02/01/2025
 '''
 
 def guess_my_name(name):

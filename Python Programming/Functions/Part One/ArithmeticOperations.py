@@ -2,7 +2,7 @@
   Section: Functions
   Topic: Arithmetic Operations
   Author: Haqim Maths (https://github.com/HaqimMaths)
-  Date: 01/01/2025
+  Date: 02/01/2025
 '''
 
 def add(a, b):
